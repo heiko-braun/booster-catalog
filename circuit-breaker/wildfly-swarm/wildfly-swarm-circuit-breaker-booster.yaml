@@ -1,2 +1,2 @@
-githubRepo: wildfly-swarm-openshiftio-boosters/wfswarm-circuit-breaker
-gitRef: master
+githubRepo: heiko-braun/wfswarm-circuit-breaker
+gitRef: SWARM-1548
