@@ -1,2 +1,2 @@
-githubRepo: wildfly-swarm-openshiftio-boosters/wfswarm-health-check
-gitRef: master
+githubRepo: heiko-braun/wfswarm-health-check
+gitRef: SWARM-1548

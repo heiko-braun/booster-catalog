@@ -1,2 +1,3 @@
-githubRepo: wildfly-swarm-openshiftio-boosters/wfswarm-configmap
-gitRef: master
+githubRepo: heiko-braun/wfswarm-configmap
+gitRef: SWARM-1548
+
