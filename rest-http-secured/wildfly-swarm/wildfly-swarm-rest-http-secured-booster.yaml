@@ -1,2 +1,2 @@
-githubRepo: wildfly-swarm-openshiftio-boosters/wfswarm-rest-http-secured
-gitRef: master
+githubRepo: heiko-braun/wfswarm-rest-http-secured
+gitRef: sso_s2i
